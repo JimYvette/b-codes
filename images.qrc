@@ -1,0 +1,86 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../Mainpart/images/？.png</file>
+        <file>../Mainpart/images/arrows.png</file>
+        <file>../Mainpart/images/bot.png</file>
+        <file>../Mainpart/images/bulb.png</file>
+        <file>../Mainpart/images/click.png</file>
+        <file>../Mainpart/images/clock.png</file>
+        <file>../Mainpart/images/close_circle.png</file>
+        <file>../Mainpart/images/cross.png</file>
+        <file>../Mainpart/images/documents.png</file>
+        <file>../Mainpart/images/email.png</file>
+        <file>../Mainpart/images/exit.png</file>
+        <file>../Mainpart/images/eye.png</file>
+        <file>../Mainpart/images/fax.png</file>
+        <file>../Mainpart/images/Fighting_rams.png</file>
+        <file>../Mainpart/images/file_open.png</file>
+        <file>../Mainpart/images/gear.png</file>
+        <file>../Mainpart/images/home.png</file>
+        <file>../Mainpart/images/house.png</file>
+        <file>../Mainpart/images/key.png</file>
+        <file>../Mainpart/images/kisspng-computer-icons-macos-5af3298e3bce20.128936171525885326245.png</file>
+        <file>../Mainpart/images/labtop.png</file>
+        <file>../Mainpart/images/ligtning.png</file>
+        <file>../Mainpart/images/location.png</file>
+        <file>../Mainpart/images/lock.png</file>
+        <file>../Mainpart/images/logo.png</file>
+        <file>../Mainpart/images/max.png</file>
+        <file>../Mainpart/images/menu.png</file>
+        <file>../Mainpart/images/metro.png</file>
+        <file>../Mainpart/images/metro_2.png</file>
+        <file>../Mainpart/images/metro_3.png</file>
+        <file>../Mainpart/images/metro_4.png</file>
+        <file>../Mainpart/images/metro_5.jpeg</file>
+        <file>../Mainpart/images/min.png</file>
+        <file>../Mainpart/images/R.png</file>
+        <file>../Mainpart/images/rams.jfif</file>
+        <file>../Mainpart/images/rams_1.jfif</file>
+        <file>../Mainpart/images/R-C (close).jfif</file>
+        <file>../Mainpart/images/R-C (logo).jfif</file>
+        <file>../Mainpart/images/R-C (min).jfif</file>
+        <file>../Mainpart/images/R-C.jfif</file>
+        <file>../Mainpart/images/red_green.png</file>
+        <file>../Mainpart/images/right_arrow.png</file>
+        <file>../Mainpart/images/ring.png</file>
+        <file>../Mainpart/images/school.png</file>
+        <file>../Mainpart/images/setting.png</file>
+        <file>../Mainpart/images/Splash.png</file>
+        <file>../Mainpart/images/team.png</file>
+        <file>../Mainpart/images/top.png</file>
+        <file>../Mainpart/images/turn.png</file>
+        <file>../Mainpart/images/voice.png</file>
+        <file>../Mainpart/images/wifi.png</file>
+        <file>../Mainpart/images/关闭.png</file>
+        <file>../Mainpart/images/wuhan-university.cdr</file>
+        <file>../Mainpart/images/WHU.png</file>
+        <file>../Mainpart/images/wuhanuniversity.png</file>
+        <file>../Mainpart/images/tree.png</file>
+        <file>../Mainpart/images/kisspng-computer-icons-fir-clip-art-5ae3b841ec3657.2670034515248732819675.png</file>
+        <file>../Mainpart/images/bottomEvent01.png</file>
+        <file>../Mainpart/images/bottomEvent02.png</file>
+        <file>../Mainpart/images/bottomEvent03.png</file>
+        <file>../Mainpart/images/bottomEvent04.png</file>
+        <file>../Mainpart/images/bottomEvent05.png</file>
+        <file>../Mainpart/images/bottomEvent06.png</file>
+        <file>../Mainpart/images/ansys.gif</file>
+        <file>../Mainpart/images/close [#1511].png</file>
+        <file>../Mainpart/images/arrow_all_fill [#382].png</file>
+        <file>../Mainpart/images/arrow_inside [#257].png</file>
+        <file>../Mainpart/images/3.2.1.png</file>
+        <file>../Mainpart/images/7.1 (1).png</file>
+        <file>../Mainpart/images/7.1 (2).png</file>
+        <file>../Mainpart/images/7.1 (3).png</file>
+        <file>../Mainpart/images/7.1 (4).png</file>
+        <file>../Mainpart/images/7.1 (5).png</file>
+        <file>../Mainpart/images/7.2 (2).png</file>
+        <file>../Mainpart/images/7.3(2).png</file>
+        <file>../Mainpart/images/7.23(2).png</file>
+        <file>../Mainpart/images/riskReference.png</file>
+        <file>../Mainpart/images/arrow_down [#339].png</file>
+        <file>../Mainpart/images/arrow_up [#340].png</file>
+        <file>../Mainpart/images/GWView.png</file>
+        <file>../Mainpart/images/GW.png</file>
+        <file>../Mainpart/images/pic.ico</file>
+    </qresource>
+</RCC>
